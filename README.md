@@ -27,6 +27,7 @@ I architect and ship systems that survive contact with real production traffic �
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/MongoDB-4169E1?style=flat-square&logo=mongodb&logoColor=white)
 
 **Architecture & Patterns:** Microservices · Event-Driven Architecture · DDD · CQRS · Clean Architecture · SOLID
 **Cloud & DevOps:** AKS · App Service · Azure Functions · API Management · Azure DevOps · GitHub Actions · Terraform/Bicep
